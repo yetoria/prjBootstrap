@@ -10981,7 +10981,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: transparent;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -11047,7 +11047,7 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #37373ea1;
+    color: #64a19d;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
